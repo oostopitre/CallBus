@@ -1,1 +1,0 @@
-Put  .dll in bin, and .jar in jre/lib/ext
